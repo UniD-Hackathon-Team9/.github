@@ -19,7 +19,7 @@
 - Nest.js
 - MySQL
 - AWS EC2
-- Naver Map API<img width="390" alt="스크린샷 2022-11-06 오후 3 05 06" src="https://user-images.githubusercontent.com/30591542/200156789-a9382943-5c5b-480d-a214-7d48c567aed8.png">
+- Naver Map API
 
 
 ## 주요 기능
