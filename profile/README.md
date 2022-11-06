@@ -34,8 +34,3 @@
 <img width="390" alt="스크린샷 2022-11-06 오후 3 00 58" src="https://user-images.githubusercontent.com/30591542/200156658-66b44018-47e6-438e-b23b-5de299c2d1b8.png">
 ### 유저의 여행지 선택 결과 화면
 <img width="391" alt="스크린샷 2022-11-06 오후 3 05 31" src="https://user-images.githubusercontent.com/30591542/200156799-8e97f1ab-1d63-4a55-a462-d077e81665a9.png">
-
-
-## 팀 소개
-### 이수영
-고려대학교 컴퓨터학과
