@@ -1,4 +1,4 @@
-# Uni-DTHON Hackathon Team 9, Promise<9>
+# Uni-DTHON Hackathon, Promise<9>
 2022.11.05. ~ 2022.11.06.
 
 # MZEJU
