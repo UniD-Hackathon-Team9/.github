@@ -1,8 +1,10 @@
-# Uni-DTHON Hackathon Team 9: Promise<9>
+# Uni-DTHON Hackathon Team 9, Promise<9>
 2022.11.05. ~ 2022.11.06.
 
 # MZEJU
-MZ세대를 위한 제주도 여행지 추천 서비스
+### MZ세대를 위한 제주도 여행지 추천 서비스  
+여행 성격 유형 검사를 통해 MZ세대 각각의 개인을 위한 특별한 여행 코스를 추천해 드립니다.
+
 
 ## Stack
 ### Frontend
