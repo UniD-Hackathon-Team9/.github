@@ -7,14 +7,14 @@
 
 
 ## Stack
-### Frontend
+### [Frontend](https://github.com/UniD-Hackathon-Team9/frontend)
 - Nest.js
 - Prisma
 - MySQL
 - AWS EC2
 - Typescript
 
-### Backend
+### [Back](https://github.com/UniD-Hackathon-Team9/backend)[end](https://github.com/UniD-Hackathon-Team9/backend-nest)
 - Django Rest Framework
 - Nest.js
 - MySQL
